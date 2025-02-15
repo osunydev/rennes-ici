@@ -2,6 +2,11 @@
 
 baseURL: https://ici.rennes-staging.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 011ffa0b-900d-4435-aeed-e623840b4000
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
