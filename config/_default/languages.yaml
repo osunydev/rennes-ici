@@ -11,7 +11,7 @@ fr:
     contact_details:
 
   permalinks:
-    events: /agenda/:year/:month/:day-:slug/
+    events: /agenda/:year/:slug/
     exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
