@@ -1,0 +1,10 @@
+content_dirs:
+  - ../content/fr/pages/nos-dossiers
+  - ../content/fr/posts
+
+has_thematic: false
+taxonomies:
+  - name: 'Catégories'
+    field_name: 'category'
+  - name: 'Formats'
+    field_name: 'format'
